@@ -19,3 +19,5 @@
 9、关于代码提交提交到你自己的github从该工程fork过去的工程下。<br/>
   比如路径为https://github.com/OwenTse/ExamDemo.git   其中OwenTse为gitHub Username<br/>
   考试结束截止时间考试程序会根据各位提供的GitHub Username去拉取代码，后进行自动的单元测试<br/>
+  
+<a href="https://travis-ci.org/OwenTse/ExamDemo"><img src="https://travis-ci.org/OwenTse/ExamDemo.svg?branch=master"></a>
