@@ -2,7 +2,7 @@
 请大家提前下载和安装以下软件：<br/>
 1、JDK 1.8+ https://java.com/zh_CN/download/<br/>
 2、IntelliJ (推荐)https://www.jetbrains.com/idea/download/ （不推荐Eclipse）<br/>
-3、Git Bash命令行 （https://msysgit.github.io/ 或 https://www.sourcetreeapp.com/）<br/>
+3、Git Bash命令行 （https://msysgit.github.io/ 或 https://www.sourcetreeapp.com/ ）<br/>
 4、Maven https://maven.apache.org/download.cgi<br/>
 5、将该工程fork到自己Github下<br/>
 6、下载到自己的IDE里面，保证环境运行没有问题<br/>
