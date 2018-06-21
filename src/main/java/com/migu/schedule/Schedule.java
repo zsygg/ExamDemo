@@ -22,7 +22,8 @@ public class Schedule {
         return taskInfolist;
     }
     public int init() {
-        // TODO 方法未实现
+        Node.clear();
+        taskMap.clear();
         return ReturnCodeKeys.E001;
     }
 
